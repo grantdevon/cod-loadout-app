@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155986387344",
+    "project_id": "cod-loadout-app",
+    "storage_bucket": "cod-loadout-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155986387344:android:73ac98011a31afc8639315",
+        "android_client_info": {
+          "package_name": "com.codloadoutapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtk7ujjJjuoTM1sWdPhZMtRs7rtYwWCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

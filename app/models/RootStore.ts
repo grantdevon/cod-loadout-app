@@ -1,9 +1,10 @@
 import { Instance, SnapshotOut, types } from "mobx-state-tree"
-
+import { WeaponsStore } from "./LoadoutModel"
 /**
  * A RootStore model.
  */
 export const RootStoreModel = types.model("RootStore").props({
+    weapons: types.optional(WeaponsStore, {})
 })
 
 /**
